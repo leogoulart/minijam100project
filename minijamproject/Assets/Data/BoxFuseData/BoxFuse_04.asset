@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec565ea062be03e46aebce7e9c186b1e, type: 3}
+  m_Name: BoxFuse_04
+  m_EditorClassIdentifier: 
+  haveEletrecit: 0
+  boxRoom: Storage
+  boxFuseSprite: {fileID: 98859706776709907, guid: d32175baf3649f94d8870e0bcc083085,
+    type: 3}
+  num_entrada: 0
+  cor_entrada: {r: 0, g: 0, b: 0, a: 0}
+  cor_saida: {r: 0, g: 0, b: 0, a: 0}
